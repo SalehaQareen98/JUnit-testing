@@ -123,23 +123,15 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: salehaqareen@gmail.com
+- **GitHub**: [SalehaQareen98]([https://github.com/your-username](https://github.com/SalehaQareen98))
 
 ---
 
-## Acknowledgments
 
-- Inspiration for this project comes from hands-on practice and academic learning.
-- Thanks to JUnit for providing a robust testing framework.
 
